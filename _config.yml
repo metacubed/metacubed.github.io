@@ -1,0 +1,29 @@
+# Site settings
+name: 'metacubed'
+description: 'Pushkaraj Shirgaonkar'
+url: ''
+
+
+# Delete the lines you don't need
+# about 5 elements are recomended
+github_username:  'metacubed'
+linkedin_username: 'shirgaonkar'
+stack_of_username: '2702368'
+blog_url: '/'
+
+
+front_img: yes
+front_img_path: 'imgs/background.jpg'
+
+
+avatar: yes
+avatar_img_path: 'https://avatars.githubusercontent.com/u/7028125'
+
+
+favicon_img: yes
+favicon_img_path: 'https://avatars.githubusercontent.com/u/7028125?s=32'
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
